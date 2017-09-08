@@ -1,0 +1,32 @@
+Table of Contents
+
+Table 1: Total Personal Health Care Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 2: Medicare Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 3: Medicaid Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 4: Private Health Insurance Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 5: Out-of-Pocket Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 6: Other Payers and Programs Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 7: Total Personal Health Care Per-capita Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 7: Out-of-Pocket Per-capita Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 7: All Other Payers and Programs Per-capita Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 8: Total Personal Health Care Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 9: Medicare Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 10: Medicaid Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 11: Private Health Insurance Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 12: Out-of-Pocket Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 13: Other Payers and Programs Spending by Gender and Age Group and Type of Service, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 14: Personal Health Care Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 15: Hospital Care Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 16: Physician and Clinical Services Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 17: Other Professional Services Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 18: Dental Services Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 19: Other Health Residential and Personal Care Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 20: Home Health Care Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 21: Nursing Care Facilities and Continuing Care Retirement Communities Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 22: Prescription Drugs Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 23: Durable Medical Equipment Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 24: Other Nondurable Medical Products Spending by Gender, Age Group and Source of Payment, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 25: Medicaid Per-enrollee Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 26: Medicare Per-enrollee Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+Table 27: Private Health Insurance Per-enrollee Spending by Gender and Age Group, Calendar Years 2002, 2004, 2006, 2008, 2010, 2012
+
